@@ -1,6 +1,7 @@
 using System.Data.Common;
 using GymTracker.Data;
 using Microsoft.Extensions.Options;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Adiciona serviços da API

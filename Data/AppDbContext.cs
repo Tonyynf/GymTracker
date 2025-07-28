@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using GymTracker.Models;
 
 namespace GymTracker.Data
@@ -9,6 +10,7 @@ namespace GymTracker.Data
         }
 
         public DbSet<Treino> Treinos { get; set; }
-        public DbSet<Exercicio> Exercicios{ get; set; }
+        public DbSet<Exercicio> Exercicios { get; set; }
     }
 }
+
