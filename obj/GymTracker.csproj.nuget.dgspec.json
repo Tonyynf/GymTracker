@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anthonyencarnacao\\GymTracker\\GymTracker.csproj": {}
+    "C:\\Users\\tonye\\Documents\\Clones de repositorios\\GymTracker\\GymTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anthonyencarnacao\\GymTracker\\GymTracker.csproj": {
+    "C:\\Users\\tonye\\Documents\\Clones de repositorios\\GymTracker\\GymTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anthonyencarnacao\\GymTracker\\GymTracker.csproj",
+        "projectUniqueName": "C:\\Users\\tonye\\Documents\\Clones de repositorios\\GymTracker\\GymTracker.csproj",
         "projectName": "GymTracker",
-        "projectPath": "C:\\Users\\anthonyencarnacao\\GymTracker\\GymTracker.csproj",
-        "packagesPath": "C:\\Users\\anthonyencarnacao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anthonyencarnacao\\GymTracker\\obj\\",
+        "projectPath": "C:\\Users\\tonye\\Documents\\Clones de repositorios\\GymTracker\\GymTracker.csproj",
+        "packagesPath": "C:\\Users\\tonye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonye\\Documents\\Clones de repositorios\\GymTracker\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\anthonyencarnacao\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tonye\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,13 +38,23 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.7, )"
             },
@@ -79,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

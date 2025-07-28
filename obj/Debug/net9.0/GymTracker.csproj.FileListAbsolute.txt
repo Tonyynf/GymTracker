@@ -34,3 +34,14 @@ c:\Users\anthonyencarnacao\GymTracker\obj\Debug\net9.0\ref\GymTracker.dll
 C:\Users\anthonyencarnacao\GymTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\anthonyencarnacao\GymTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\anthonyencarnacao\GymTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.csproj.AssemblyReference.cache
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.AssemblyInfoInputs.cache
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.AssemblyInfo.cs
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.csproj.CoreCompileInputs.cache
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.sourcelink.json
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.dll
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\refint\GymTracker.dll
+C:\Users\tonye\Documents\Clones de repositorios\GymTracker\obj\Debug\net9.0\GymTracker.pdb
